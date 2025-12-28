@@ -33,12 +33,9 @@ Available styles by the system:
 4. The response style is applied using predefined templates
 5. The final response is shown to the user
 
-#Example
-Input:
-Explain neural networks
+# Example
+Input:Explain neural networks
 
-Detected Intent:
-Academic
+Detected Intent: Academic
 
-Response (Calm Professor):
-Let’s go through this step by step.
+Response (Calm Professor): Let’s go through this step by step.
